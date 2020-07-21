@@ -3,10 +3,10 @@ This project presents the basic concept of using app based smart parking service
 
 Components used for this project are:
 
-Arduino board
-Node MCU
-Jumper Wires
-USB Cable
-IR Sensors
-LEDs
+Arduino board,
+Node MCU,
+Jumper Wires,
+USB Cable,
+IR Sensors,
+LEDs,
 BLYNK app for mobile.
